@@ -12,6 +12,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento do
 | Aulas | Resumos |
 |-------|---------|
 |Gravando Alterações no Resumo Local | []()
+|06/06 | Git status, Git log, git reset, git restore |
 ```
 git int
 ```
