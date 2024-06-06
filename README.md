@@ -18,7 +18,7 @@ git int
 ```
 # Comandos Git
 - Branch
-Git checkout -b nome-new-branch (criar nova branch)
+Git checkout -b nome-new-branch (criar nova branch) \n
 Git chechout (volta para branch principal)
 
 ## 🔍 Referências
