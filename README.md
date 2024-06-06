@@ -16,5 +16,9 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento do
 ```
 git int
 ```
+# Comandos Git
+- Branch
+Git checkout -b nome-new-branch (criar nova branch)
+Git chechout (volta para branch principal)
 
 ## 🔍 Referências
