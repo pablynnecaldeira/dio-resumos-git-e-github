@@ -12,13 +12,17 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento do
 | Aulas | Resumos |
 |-------|---------|
 |Aula 01| [Resumo]()
-|Aula 02| Git status, Git log, git reset, git restore |
-```
-git int
-```
-# Comandos Git
+|Aula 02| Comandos Git |
+
+<div style="display: inline_block"><br>
+ <h3>Comandos Git <img align="center" alt="Pablynne-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></h3>
+</div>
 - Branch
-Git checkout -b nome-new-branch (criar nova branch) \n
-Git chechout (volta para branch principal)
+
+| Comando | Objetivo |
+|---------|----------|
+| Git checkout -b nome-new-branch | criar nova branch |
+| Git chechout | volta para branch principal |
 
 ## 🔍 Referências
+[Sintaxe Readme](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
