@@ -11,8 +11,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento do
 ## 👩‍💻 Resumos das Aulas
 | Aulas | Resumos |
 |-------|---------|
-|Aula 01| [Resumo]()
-|Aula 02| Comandos Git |
+|Aula 01| Comandos Git |
+|Aula 02| [Dicas para o ChatGPT](https://github.com/pablynnecaldeira/dio-resumos-git-e-github/blob/4ecaf69b15de38383ff730c74e2d3aedee038a0d/otimizandoChatGPT.md)  |
 
 <div style="display: inline_block"><br>
  <h3><img align="center" alt="Pablynne-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />Comandos Git </h3>
