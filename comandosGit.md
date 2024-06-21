@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
- <h3><img align="center" alt="Pablynne-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />Comandos Git </h3>
+ <h1><img align="center" alt="Pablynne-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />Comandos Git </h1>
 </div>
 
 - **Branch**
