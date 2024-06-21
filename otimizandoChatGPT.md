@@ -32,4 +32,7 @@ Modelo: Me [FUNÇÃO] um [TIPO DE TEXTO] sobre [ASSUNTO] no [ESTILO]
 > - Mantenha o tom e o ritmo, mas reescreva as palavras em {Roteiro} para que seja diferente do original, expandindo ou mudando conforme o necessário.<br>
 > - Use analogias simples e hipérboles.<br>
 
+## ✨Dicas!
+- O Chat atua como terminais. Exemplo: atue como terminal linux
+
 [Material de Apoio](https://helpful-jump-17b.notion.site/Prompts-assertivos-121ebbf78f6440d98c58d1509b3e030f)
