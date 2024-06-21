@@ -36,5 +36,6 @@ Modelo: Me [FUNÇÃO] um [TIPO DE TEXTO] sobre [ASSUNTO] no [ESTILO]
 - O Chat atua como terminais. Exemplo: atue como terminal linux; SQL; JavaScript...
 - Peça para o Chat agir como um gerador de prompt do ChatGPT, ele irá reescrever as perguntas de maneira mais objetiva.
 
-[Material de Apoio](https://helpful-jump-17b.notion.site/Prompts-assertivos-121ebbf78f6440d98c58d1509b3e030f)
+## 🔗Materiais
+[Material de Apoio](https://helpful-jump-17b.notion.site/Prompts-assertivos-121ebbf78f6440d98c58d1509b3e030f)<br>
 [Principais Act Prompts](https://github.com/f/awesome-chatgpt-prompts)
